@@ -1,5 +1,8 @@
-#npm-downloads
+###Not currently maintained or working. Pull requests / project adopters welcome
+
 ===============
+
+#npm-downloads
 
 Prints the number of downloads for a given npm package and the packages that directly depend on it.
 
